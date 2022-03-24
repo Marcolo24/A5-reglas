@@ -1,4 +1,4 @@
-Regla 1. Utilizar el selector de tipo "body" para cambiar el tipo de fuente del body
+Regla 1. Utilizar el selector de tipo "body" para cambiar el tipo de fuente del body a "font-family: 'Quicksand', sans-serif"
 
 Regla 2. El elemento con id "div1" tendrá un relleno del 20% únicamente a la derecha e izquierda
 
